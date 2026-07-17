@@ -6,7 +6,8 @@ Ever wanted to conveniently change your scooter’s configured speed without pul
 
 > [!WARNING]
 > Veylance is an unofficial third-party application. It is not affiliated with, endorsed by, or supported by Segway-Ninebot or any scooter manufacturer.
-> Using an iPhone? Use [Velo](https://github.com/derotti77/Velo)!
+
+**Using an iPhone? Use [Velo](https://github.com/derotti77/Velo)!**
 
 ## Features
 
