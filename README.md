@@ -27,8 +27,6 @@ Ever wanted to conveniently change your scooter’s configured speed without pul
   * Press Volume Up and Volume Down
   * Send an Android intent from Tasker or another automation app
 * Light, dark, and system themes
-* Native Android Bluetooth handling
-* Native C++ protocol implementation
 
 ## Supported scooters
 
